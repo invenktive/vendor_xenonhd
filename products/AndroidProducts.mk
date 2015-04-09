@@ -29,6 +29,7 @@ PRODUCT_MAKEFILES := \
 	$(LOCAL_DIR)/xenonhd_maguro.mk \
 	$(LOCAL_DIR)/xenonhd_mako.mk \
 	$(LOCAL_DIR)/xenonhd_mb886.mk \
+        $(LOCAL_DIR)/xenonhd_meliusltexx.mk \
 	$(LOCAL_DIR)/xenonhd_m7tmo.mk \
 	$(LOCAL_DIR)/xenonhd_n7000.mk \
 	$(LOCAL_DIR)/xenonhd_n7100.mk \
